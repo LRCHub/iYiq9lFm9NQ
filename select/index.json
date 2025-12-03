@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ぼくを探して",
+  "base_artist": "Aki Toyosaki",
+  "createdAt": "2025-12-03T09:44:37.527131Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくを探して",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくを探して_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ぼくを探して",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_02_ぼくを探して_豊崎_愛生.txt"
+    }
+  ]
+}
